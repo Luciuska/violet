@@ -8,6 +8,7 @@ endif
 set t_Co=256
 let g:colors_name = "violet"
 
+hi Title guifg=#bcddb3
 highlight Type guifg=#7fb5b5
 highlight String guifg=#c0a89e                
 highlight Comment guifg=#727272
